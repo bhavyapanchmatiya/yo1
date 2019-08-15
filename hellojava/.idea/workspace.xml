@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15699313-6c9d-48db-84c9-ce911ca689dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hellojava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,19 +80,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q15DayOfWeek.java">
+        <entry file="file://$PROJECT_DIR$/src/Q16VowelOrConsonant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="43" column="13" selection-end-line="48" />
+            <state relative-caret-position="204">
+              <caret line="12" column="24" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q6GrossSalary.java">
+        <entry file="file://$PROJECT_DIR$/src/Q15DayOfWeek.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="552">
+              <caret line="43" column="13" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -427,13 +424,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IFELSEIF.java" />
-    <entry file="file://$PROJECT_DIR$/src/Q16VowelOrConsonant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q1TernaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -529,6 +519,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="43" column="13" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q16VowelOrConsonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>

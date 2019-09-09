@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1df58580-3297-40be-87af-0cd0ff3f6142" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/src/main/Resources/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenHomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Resources/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MavenHomeWork/HomeworkAllInOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q10CityNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q11VoteEligibilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q12UpperLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q13InputTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q14AlphabetOrSymbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q15DayOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q16VowelOrConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q1TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q2LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q3and4StudentMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q5InterchangedValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q6GrossSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q7AverageFiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q8PositiveNegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q9SalesAmount.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MavenHomeWork/HomeworkAllInOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/abc/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abc/HomeworkAllInOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RegisterAfterBefore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MavenHomeWork/HomeworkAllInOne.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="308" />
+    <option name="y" value="22" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MavenHomeWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\xyz\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomeworkAllInOne">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="MavenHomeWork" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="MavenHomeWork" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkAllInOne" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="abc" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.HomeworkAllInOne" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkAllInOne.UserShouldBeAbleToSelectJewelleryAndFilterBy700to3000" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.HomeworkAllInOne" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToSelectJewelleryAndFilterBy700to3000" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkAllInOne.userShouldBeAbleToNavigateToCameraAndPhoto" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.HomeworkAllInOne" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToNavigateToCameraAndPhoto" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkAllInOne.userShouldBeAbleToPutTwoBooksInBasket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="MavenHomeWork.HomeworkAllInOne" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToPutTwoBooksInBasket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterAfterBefore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenHomeWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAfterBefore" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeworkAllInOne" />
+        <item itemvalue="TestNG.RegisterAfterBefore" />
+        <item itemvalue="TestNG.HomeworkAllInOne.userShouldBeAbleToPutTwoBooksInBasket" />
+        <item itemvalue="TestNG.HomeworkAllInOne.UserShouldBeAbleToSelectJewelleryAndFilterBy700to3000" />
+        <item itemvalue="TestNG.HomeworkAllInOne.userShouldBeAbleToNavigateToCameraAndPhoto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1df58580-3297-40be-87af-0cd0ff3f6142" name="Default Changelist" comment="" />
+      <created>1567864025300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567864025300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HomeworkAllInOne_UserShouldBeAbleToSelectJewelleryAndFilterBy700to3000 - 2019.09.09 at 13h 44m 44s.xml">
+      <configuration name="HomeworkAllInOne.UserShouldBeAbleToSelectJewelleryAndFilterBy700to3000" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne_userShouldBeAbleToPutTwoBooksInBasket - 2019.09.09 at 13h 45m 48s.xml">
+      <configuration name="HomeworkAllInOne.userShouldBeAbleToPutTwoBooksInBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne - 2019.09.09 at 13h 50m 20s.xml">
+      <configuration name="HomeworkAllInOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne_userShouldBeAbleToPutTwoBooksInBasket - 2019.09.09 at 13h 52m 03s.xml">
+      <configuration name="HomeworkAllInOne.userShouldBeAbleToPutTwoBooksInBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne_userShouldBeAbleToPutTwoBooksInBasket - 2019.09.09 at 13h 56m 54s.xml">
+      <configuration name="HomeworkAllInOne.userShouldBeAbleToPutTwoBooksInBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RegisterAfterBefore - 2019.09.09 at 14h 02m 39s.xml">
+      <configuration name="RegisterAfterBefore" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RegisterAfterBefore - 2019.09.09 at 14h 06m 48s.xml">
+      <configuration name="RegisterAfterBefore" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne - 2019.09.09 at 14h 09m 06s.xml">
+      <configuration name="HomeworkAllInOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne - 2019.09.09 at 14h 14m 11s.xml">
+      <configuration name="HomeworkAllInOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeworkAllInOne - 2019.09.09 at 14h 56m 43s.xml">
+      <configuration name="HomeworkAllInOne" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25075987" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MavenHomeWork/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RegisterAfterBefore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MavenHomeWork/HomeworkAllInOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

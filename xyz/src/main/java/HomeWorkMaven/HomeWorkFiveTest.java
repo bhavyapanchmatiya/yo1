@@ -1,5 +1,4 @@
-package MavenHomeWork;
-
+package HomeWorkMaven;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -13,7 +12,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class HomeworkAllInOne {
+public class HomeWorkFiveTest {
 
     protected static WebDriver driver;
 
@@ -39,8 +38,8 @@ public class HomeworkAllInOne {
         return format.format(new Date()); }
 
 
-        @BeforeMethod
-        public void openBrowser(){
+    @BeforeMethod
+    public void openBrowser(){
 
         System.setProperty("webdriver.chrome.driver","src\\main\\Resources\\BrowserDriver\\chromedriver.exe");
         //Open Browser(Chrome)
@@ -52,65 +51,65 @@ public class HomeworkAllInOne {
         //Enter Url
         driver.get("http://demo.nopcommerce.com/");}
 
-        @Test
-        public void UserShouldBeAbleToRegister(){
+    @Test
+    public void UserShouldBeAbleToRegister(){
 
         //Click Register Button
-            driver.findElement(By.linkText("Register")).click();
+        driver.findElement(By.linkText("Register")).click();
         //Enter First Name
-            driver.findElement(By.id("FirstName")).sendKeys("Bhavya");
+        driver.findElement(By.id("FirstName")).sendKeys("Bhavya");
         //Enter Last Name
-            driver.findElement(By.id("LastName")).sendKeys("Panchmatiya");
+        driver.findElement(By.id("LastName")).sendKeys("Panchmatiya");
         //Enter New Email
-            driver.findElement(By.xpath("//input[@data-val-email = 'Wrong email']")).sendKeys("Bhavya" + randomDate() + "@gmail.com");
+        driver.findElement(By.xpath("//input[@data-val-email = 'Wrong email']")).sendKeys("Bhavya" + randomDate() + "@gmail.com");
         //Enter Password
-            driver.findElement(By.xpath("//input[@data-val-regex-pattern = '^.{6,}$']")).sendKeys("Liverpool");
+        driver.findElement(By.xpath("//input[@data-val-regex-pattern = '^.{6,}$']")).sendKeys("Liverpool");
         //Enter Confirm Word
-            driver.findElement(By.xpath("//input[@data-val-equalto = 'The password and confirmation password do not match.']")).sendKeys("Liverpool");
+        driver.findElement(By.xpath("//input[@data-val-equalto = 'The password and confirmation password do not match.']")).sendKeys("Liverpool");
         //Click Register Buton
-            driver.findElement(By.xpath("//input[@id = 'register-button']")).click();
+        driver.findElement(By.xpath("//input[@id = 'register-button']")).click();
         //Expected Result
-            String expectedResults = ("Your registration completed");
+        String expectedResults = ("Your registration completed");
         //Actual Result
-            String actualResult = driver.findElement(By.xpath("//div[@class = \"result\"]")).getText();
+        String actualResult = driver.findElement(By.xpath("//div[@class = \"result\"]")).getText();
         //Compare Actual and Expected results
-            Assert.assertEquals(actualResult,expectedResults);
-        }
+        Assert.assertEquals(actualResult,expectedResults);
+    }
 
     @Test
     public void registerAndEmailAFriend(){
 
-    //Click Register
+        //Click Register
         driver.findElement(By.linkText("Register")).click();
-    //Enter First Name
+        //Enter First Name
         driver.findElement(By.id("FirstName")).sendKeys("Bhavya");
-    //Enter Last Name
+        //Enter Last Name
         driver.findElement(By.id("LastName")).sendKeys("Panchmatiya");
-    //Enter Email
+        //Enter Email
         driver.findElement(By.xpath("//input[@data-val-email = 'Wrong email']")).sendKeys("Bhavya" + randomDate() + "@gmail.com");
-    //Enter Password
+        //Enter Password
         driver.findElement(By.xpath("//input[@data-val-regex-pattern = '^.{6,}$']")).sendKeys("Liverpool");
-    //Enter Confirm Password
+        //Enter Confirm Password
         driver.findElement(By.xpath("//input[@data-val-equalto = 'The password and confirmation password do not match.']")).sendKeys("Liverpool");
-    //Click Register Button
+        //Click Register Button
         driver.findElement(By.xpath("//input[@id = 'register-button']")).click();
-    //Click HomeButton(NopCommerce) on Top Left
+        //Click HomeButton(NopCommerce) on Top Left
         driver.findElement(By.xpath("//img[@alt =\"nopCommerce demo store\" ]")).click();
-    //Click on Apple Link
+        //Click on Apple Link
         driver.findElement(By.xpath("/html/body/div[6]/div[3]/div/div/div/div/div[4]/div[2]/div[2]/div/div[2]/h2/a")).click();
-    //Click Email a friend Button
+        //Click Email a friend Button
         driver.findElement(By.xpath("//div[@class='email-a-friend']")).click();
-    //Enter Friend's Email
+        //Enter Friend's Email
         driver.findElement(By.className("friend-email")).sendKeys("PatelM@yahoo.com");
-    //Enter Message
+        //Enter Message
         driver.findElement(By.name("PersonalMessage")).sendKeys("Yo...buy me this Laptop Bro !!");
-    //Click Send
+        //Click Send
         driver.findElement(By.xpath("/html/body/div[6]/div[3]/div/div/div/div[2]/form/div[2]/input")).click();
-    //Expected Results
+        //Expected Results
         String expectedResults = ("Apple MacBook Pro 13-inch");
-    //Acutal Results
+        //Acutal Results
         String actualResult = driver.findElement(By.xpath("")).getText();
-    //Compare Actual and Expected results
+        //Compare Actual and Expected results
         Assert.assertEquals(actualResult,expectedResults);
 
 
@@ -118,15 +117,15 @@ public class HomeworkAllInOne {
     @Test
     public void userShouldBeAbleToNavigateToCameraAndPhoto(){
 
-    //Click on Electronics
+        //Click on Electronics
         driver.findElement(By.xpath("//h2/a[@title = \"Show products in category Electronics\"]")).click();
-    //Click on Camera & Photo
+        //Click on Camera & Photo
         driver.findElement(By.xpath("//h2/a[@href = \"/camera-photo\"]")).click();
-    //Expected Results
+        //Expected Results
         String expectedResults = ("Leica T Mirrorless Digital Camera");
-    //Actual Result
+        //Actual Result
         String actualResult = driver.findElement(By.linkText("Leica T Mirrorless Digital Camera")).getText();
-    //Compare Results
+        //Compare Results
         Assert.assertEquals(actualResult,expectedResults);
     }
 
@@ -150,22 +149,22 @@ public class HomeworkAllInOne {
     @Test
     public void userShouldBeAbleToPutTwoBooksInBasket(){
 
-    //Click On Books
-    driver.findElement(By.xpath("//li/a[@href = \"/books\"]")).click();
-    //Add First Book in Basket
-    driver.findElement(By.xpath("/html/body/div[6]/div[3]/div[2]/div[2]/div/div[2]/div[3]/div/div[1]/div/div[2]/div[3]/div[2]/input[1]")).click();
-    sleep(10000);
-    //Add Second Book
-    driver.findElement(By.xpath("/html/body/div[6]/div[3]/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div[2]/div[3]/div[2]/input[1]")).click();
-    //Click on shopping cart
-    driver.findElement(By.xpath("//span[@class=\"cart-label\"]")).click();
+        //Click On Books
+        driver.findElement(By.xpath("//li/a[@href = \"/books\"]")).click();
+        //Add First Book in Basket
+        driver.findElement(By.xpath("/html/body/div[6]/div[3]/div[2]/div[2]/div/div[2]/div[3]/div/div[1]/div/div[2]/div[3]/div[2]/input[1]")).click();
+        sleep(10000);
+        //Add Second Book
+        driver.findElement(By.xpath("/html/body/div[6]/div[3]/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div[2]/div[3]/div[2]/input[1]")).click();
+        //Click on shopping cart
+        driver.findElement(By.xpath("//span[@class=\"cart-label\"]")).click();
 
-    //Expected Results
-    String expectedResult = ("Gift wrapping");
-    //Actual Results
-    String actualResult = driver.findElement(By.xpath("//label[@class = \"text-prompt\"]")).getText();
-    //Compare Actual and Expected Results
-    Assert.assertEquals(actualResult,expectedResult);
+        //Expected Results
+        String expectedResult = ("Gift wrapping");
+        //Actual Results
+        String actualResult = driver.findElement(By.xpath("//label[@class = \"text-prompt\"]")).getText();
+        //Compare Actual and Expected Results
+        Assert.assertEquals(actualResult,expectedResult);
 
     }
 
@@ -175,16 +174,9 @@ public class HomeworkAllInOne {
 
     @AfterMethod
     public void close(){
-    //Close all Session
-    //driver.quit();
-        }
+        //Close all Session
+        //driver.quit();
+    }
 }
-
-
-
-
-
-
-
 
 

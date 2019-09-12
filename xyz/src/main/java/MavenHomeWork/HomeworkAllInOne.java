@@ -26,11 +26,11 @@ public class HomeworkAllInOne {
             ex.printStackTrace(); }
     }
 
-    public String generateEmail(String startValue){
+   /* public String generateEmail(String startValue){
 
         String email = startValue.concat(new Date().toString());
 
-        return email; }
+        return email; }*/
 
 
     public static String randomDate(){
@@ -40,7 +40,7 @@ public class HomeworkAllInOne {
 
 
         @BeforeMethod
-        public void openBroser(){
+        public void openBrowser(){
 
         System.setProperty("webdriver.chrome.driver","src\\main\\Resources\\BrowserDriver\\chromedriver.exe");
         //Open Browser(Chrome)
@@ -109,7 +109,7 @@ public class HomeworkAllInOne {
     //Expected Results
         String expectedResults = ("Apple MacBook Pro 13-inch");
     //Acutal Results
-        String actualResult = driver.findElement(By.xpath("//a[@href = \"/apple-macbook-pro-13-inch\"]")).getText();
+        String actualResult = driver.findElement(By.xpath("")).getText();
     //Compare Actual and Expected results
         Assert.assertEquals(actualResult,expectedResults);
 

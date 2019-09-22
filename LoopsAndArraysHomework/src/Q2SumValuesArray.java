@@ -6,9 +6,9 @@ public class Q2SumValuesArray {
 
         int [] T = {3443,4343,4344,434,1};
 
-        int sum = Arrays.stream(T).sum();
+        int s = Arrays.stream(T).sum();
 
-        System.out.println("The Total Value is " + sum);
+        System.out.println("The Total Value is " + s);
 
 
     }
